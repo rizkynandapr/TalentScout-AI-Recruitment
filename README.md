@@ -25,9 +25,6 @@ The system employs a high-precision weighted algorithm to ensure reliable evalua
 - **Guardrail:** An automatic -30 point penalty is applied if mandatory hard skills are absent, ensuring high-quality filtering.
 
 ## Dashboard Preview
-<img width="959" height="454" alt="image" src="https://github.com/user-attachments/assets/378d8205-90ec-4429-8576-1df262036a17" />
-<img width="1915" height="900" alt="image" src="https://github.com/user-attachments/assets/0d718976-a0bd-4a35-bd79-eae3a9a54c44" />
-<img width="1917" height="904" alt="image" src="https://github.com/user-attachments/assets/a01c1aab-8ed0-4f18-b839-c3fbe09c899b" />
 <img width="1912" height="828" alt="image" src="https://github.com/user-attachments/assets/c631a096-8d83-46be-bcad-1eaa37652e11" />
 <img width="1885" height="789" alt="image" src="https://github.com/user-attachments/assets/c74dd9e0-4d27-4cd4-9d24-fe803b3435b4" />
 <img width="1887" height="790" alt="image" src="https://github.com/user-attachments/assets/ad343c5a-7e6f-4a67-9dcc-8c5db2acb9f0" />
